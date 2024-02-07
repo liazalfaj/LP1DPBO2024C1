@@ -1,3 +1,5 @@
+/*Saya Amelia Zalfa Juianti dengan NIM 2203999 mengerjakan LP1 untuk keberkahannya maka saya
+tidak melakukan kecurangan sesuai dengan apa yang telah dispesifikasikan. Aamiin*/
 #include <iostream>
 #include <string>
 
