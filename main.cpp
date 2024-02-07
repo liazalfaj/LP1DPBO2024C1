@@ -144,15 +144,15 @@ int main(){
 			cout << "MASUKKAN NOMOR DATA" << '\n';
 			int cariid;
 			cin >> cariid;
-			i = 0;
-			for(list<Dpr>::iterator it = llist.begin(); it != llist.end(); it++){
-				if((i + 1) == cariid){
-					if(!llist.empty()){
-						llist.erase(llist.begin());
-					}
-				}
-				i++;
-			}
+			// i = 0;
+			// for(list<Dpr>::iterator it = llist.begin(); it != llist.end(); it++){
+			// 	if((i + 1) == cariid){
+			// 		if(!llist.empty()){
+			// 			llist.erase(llist.begin());
+			// 		}
+			// 	}
+			// 	i++;
+			// }
 			
 			//output
 			cout << "DATA ANGGOTA DPR" << '\n';
