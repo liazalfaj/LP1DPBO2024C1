@@ -1,5 +1,5 @@
-/*SAya Amelia Zalfa Juianti dengan NIM 2203999 mengerjakan LP1 untuk keberkahannya maka saya
-tisak melakukan kecurangan sesuai dengan apa yang telah dispesifikasikan. Aamiin*/
+/*Saya Amelia Zalfa Juianti dengan NIM 2203999 mengerjakan LP1 untuk keberkahannya maka saya
+tidak melakukan kecurangan sesuai dengan apa yang telah dispesifikasikan. Aamiin*/
 #include <bits/stdc++.h>
 #include "Dpr.cpp"
 
