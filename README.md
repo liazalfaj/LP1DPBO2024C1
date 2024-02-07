@@ -10,7 +10,6 @@ Terakhir, jika user memilih menu selesai, maka akan keluar output data akhir dar
 ![Screenshot 2024-02-08 023357](https://github.com/liazalfaj/LP1DPBO2024C1/assets/114666885/508c1467-b1db-4ddd-8a6a-50520328d30d)
 ![Screenshot 2024-02-08 023343](https://github.com/liazalfaj/LP1DPBO2024C1/assets/114666885/866681bd-19e0-4aa2-8ae3-651807f7d992)
 ![Screenshot 2024-02-08 023312](https://github.com/liazalfaj/LP1DPBO2024C1/assets/114666885/2ef208f8-ea25-4f29-a959-feeb13cd8e43)
-![Screenshot 2024-02-07 115414](https://github.com/liazalfaj/LP1DPBO2024C1/assets/114666885/e414e92c-2ee1-4da7-9028-48bfd46edc77)
 
 
 
