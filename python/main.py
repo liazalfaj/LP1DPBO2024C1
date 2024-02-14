@@ -1,5 +1,6 @@
 #SAya Amelia Zalfa Juianti dengan NIM 2203999 mengerjakan LP1 untuk keberkahannya maka saya
 #tisak melakukan kecurangan sesuai dengan apa yang telah dispesifikasikan. Aamiin
+#maaf kang teh masih error kodenya
 from Dpr import Dpr
 
 rain = Dpr("2203999", "Amelia", "KOMISI-I", "PKS")
@@ -7,7 +8,7 @@ techi = Dpr("2203789", "Techi", "KOMISI-V", "PDIP")
 
 dprs = []
 
-n = int(input("Enter the number of DPRs: "))
+n = int(input("Masukkan jumlah data DPR: "))
 
 for i in range(n):
     id = int(input("Masukkan ID: "))
